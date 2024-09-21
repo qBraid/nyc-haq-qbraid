@@ -110,11 +110,13 @@ Good luck to all participants!
 
 
 
-Citations:
-[1] https://blogs.mathworks.com/finance/2023/07/24/quantum-computing-for-optimizing-investment-portfolios/
-[2] https://www.nature.com/articles/s41598-023-45392-w
-[3] https://www.mphasis.com/content/dam/mphasis-com/global/en/home/innovation/next-lab/mphasis-quantum-annealer-based-portfolio-optimization-whitepaper.pdf
-[4] https://arxiv.org/abs/2305.01480v1
-[5] https://aws.amazon.com/blogs/quantum-computing/a-detailed-end-to-end-assessment-of-a-quantum-algorithm-for-portfolio-optimization-released-by-goldman-sachs-and-aws/
-[6] https://thequantuminsider.com/2022/10/07/quantum-algorithm-developed-for-financial-services-sector-successfully-builds-high-return-low-risk-portfolios/
-[7] 
+## References
+
+For more detailed information, please refer to the following sources:
+
+1. [Quantum Computing for Optimizing Investment Portfolios - MathWorks](https://blogs.mathworks.com/finance/2023/07/24/quantum-computing-for-optimizing-investment-portfolios/)
+2. [Best practices for portfolio optimization by quantum computing - Nature](https://www.nature.com/articles/s41598-023-45392-w)
+3. [Quantum Annealer Based Portfolio Optimization - Mphasis](https://www.mphasis.com/content/dam/mphasis-com/global/en/home/innovation/next-lab/mphasis-quantum-annealer-based-portfolio-optimization-whitepaper.pdf)
+4. [Quantum Algorithms for Portfolio Optimization - arXiv](https://arxiv.org/abs/2305.01480v1)
+5. [Assessment of Quantum Algorithm for Portfolio Optimization - AWS](https://aws.amazon.com/blogs/quantum-computing/a-detailed-end-to-end-assessment-of-a-quantum-algorithm-for-portfolio-optimization-released-by-goldman-sachs-and-aws/)
+6. [Quantum Algorithm for Financial Services - The Quantum Insider](https://thequantuminsider.com/2022/10/07/quantum-algorithm-developed-for-financial-services-sector-successfully-builds-high-return-low-risk-portfolios/)

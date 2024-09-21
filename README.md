@@ -108,6 +108,8 @@ Good luck to all participants!
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qbraid/nyc-haq-qbraid.git)
 
+For more information on using qBraid, see the [qBraid Documentation](https://docs.qbraid.com/home/introduction).
+For qBraid Lab, see https://docs.qbraid.com/lab/user-guide/overview, where you can see [Devices](https://docs.qbraid.com/lab/user-guide/quantum-devices) and set up [Environments](https://docs.qbraid.com/lab/user-guide/environments).
 
 
 ## References
